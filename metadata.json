@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow",
+  "description": "A comprehensive personal finance manager with multi-user support, strict data separation, and offline capabilities.",
+  "requestFramePermissions": []
+}
